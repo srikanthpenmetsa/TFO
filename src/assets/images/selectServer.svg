@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 662 662" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(5.55556,0,0,5.55556,-1793.82,-2465.04)">
+        <g id="selectServer">
+            <g transform="matrix(1,0,0,1,172.284,14.1471)">
+                <circle cx="210.161" cy="489.118" r="58.558" style="fill:white;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0.870093,0,0,0.870093,338.838,451.16)">
+                <g>
+                    <g opacity="0.5">
+                        <g>
+                            <g opacity="0.5">
+                                <rect x="14" y="33" width="15" height="4" style="fill:rgb(255,96,0);"/>
+                                <rect x="14" y="43" width="15" height="4"/>
+                                <rect x="14" y="53" width="15" height="4" style="fill:rgb(255,96,0);"/>
+                                <circle cx="16" cy="65" r="2"/>
+                                <circle cx="23" cy="65" r="2" style="fill:rgb(255,96,0);"/>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,0.210298,0.0760137)">
+                            <path d="M35.695,77.506L6.715,77.506L6.715,19.911L35.695,19.911L35.695,77.506ZM9.013,22.209L9.013,75.207L33.397,75.207L33.397,22.209L9.013,22.209Z" style="fill-opacity:0.5;"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(-1,0,0,1,100.234,0)">
+                    <g opacity="0.5">
+                        <g>
+                            <g opacity="0.5">
+                                <rect x="14" y="33" width="15" height="4" style="fill:rgb(255,96,0);"/>
+                                <rect x="14" y="43" width="15" height="4"/>
+                                <rect x="14" y="53" width="15" height="4" style="fill:rgb(255,96,0);"/>
+                                <circle cx="16" cy="65" r="2"/>
+                                <circle cx="23" cy="65" r="2" style="fill:rgb(255,96,0);"/>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,0.210298,0.0760137)">
+                            <path d="M6.715,77.506L35.695,77.506L35.695,19.911L6.715,19.911L6.715,77.506ZM33.397,22.209L33.397,75.207L9.013,75.207L9.013,22.209L33.397,22.209Z" style="fill-opacity:0.5;"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-0.637571)">
+                    <rect x="41" y="23" width="18" height="4" style="fill:rgb(255,96,0);"/>
+                    <rect x="41" y="33" width="18" height="4" style="fill:rgb(255,96,0);"/>
+                    <rect x="41" y="43" width="18" height="4" style="fill:rgb(255,96,0);"/>
+                    <rect x="41" y="53" width="18" height="4" style="fill:rgb(255,96,0);"/>
+                    <circle cx="43" cy="65" r="2"/>
+                    <circle cx="50" cy="65" r="2" style="fill:rgb(255,96,0);"/>
+                    <circle cx="57" cy="65" r="2"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-0.696946,2.59892)">
+                    <path d="M66.78,74.988L34.613,74.988L34.613,8.539L66.78,8.539L66.78,74.988ZM36.912,10.837L36.912,72.69L64.482,72.69L64.482,10.837L36.912,10.837Z"/>
+                </g>
+                <g transform="matrix(0.700175,0,0,0.700175,20.4321,40.5051)">
+                    <path d="M82.8,57.4C82.8,54 80,51.2 76.6,51.2C74.4,51.2 72.4,52.4 71.3,54.1L71.3,54C71.3,50.6 68.5,47.8 65.1,47.8C62.9,47.8 60.9,49 59.8,50.7L59.8,50.5C59.8,47.1 57,44.3 53.6,44.3C51.4,44.3 49.4,45.5 48.3,47.2L48.3,26.3C48.3,24.6 47.6,23.1 46.5,21.9C45.2,20.7 43.7,20 42,20C38.6,20 35.8,22.8 35.8,26.2L35.8,67.1C35.8,67.5 35.6,67.8 35.3,67.9C35,68 34.6,68 34.4,67.7L28,61.4C25.9,59.3 22.5,59 20,60.6C18.5,61.6 17.5,63.2 17.3,64.9C17,66.7 17.6,68.5 18.7,69.8L34.5,88.8C39,94.2 45.5,97.3 52.6,97.3L62.4,97.3C67.9,97.3 73.1,95.2 76.9,91.3C80.8,87.4 82.9,82.2 82.9,76.8L82.8,57.4Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:1.64px;stroke-linecap:butt;stroke-miterlimit:1.41421;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
