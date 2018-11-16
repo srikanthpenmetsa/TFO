@@ -1,0 +1,60 @@
+header {
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    height: 70px;
+   padding: 10px 50px 10px 10px;
+}
+#logo{
+    height:70%;
+}
+
+
+.footer {
+    height: 40px;
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    color: black;
+  }
+  
+  .content {
+    min-height: calc(55vh);
+    display: grid;
+    grid-template-rows: auto auto auto 1fr;
+    justify-content: center;
+    padding-top: 5%;
+    text-align: center;
+    grid-row-gap: 10px;
+  }
+  .solution-progress{
+    display: -webkit-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  input{
+    background-color: orange;
+    height: 30px;
+    width: 100px;
+    color:white;
+    border-radius: 15px;
+  }
+  .next-button{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-bottom: 10px;
+  }
+
+  .progress-indicator{
+    height:64px;
+    --margin-left:30px;
+  }
+
+  .progress-separator{
+    vertical-align: middle;
+    height: 64px;
+    width: 40px;
+  }

@@ -1,0 +1,48 @@
+<html>
+  <body>
+      <header>
+          <div id = "logo">
+              <img src="./assets/images/LFO.jpg" style="height:64px">
+          </div>
+        <div style="text-align:right;">
+          <label>TECHNO FUNCTIONAL OBJECTS</label>
+        </div>
+      </header>
+
+      <div class="content">
+          <label style="font-weight:bolder; font-size: x-large;">CREATE YOUR TARGET ENVIRONMENTS</label>
+          <label style="padding-top:10px;">THIS INFORMATION WILL LET US KNOW MORE ABOUT REQUIREMENT.</label>
+          <div style="padding-top:20px;">
+            <img src="./assets/images/execute.svg" class="progress-indicator" >
+            <svg  class="progress-separator">
+                <line  x1="50" y1="0" style="stroke:rgb(0,0,0);stroke-width:3" ></line>
+              </svg>
+            
+            <img src="./assets/images/review.svg"  class="progress-indicator" >
+            <svg  class="progress-separator">
+                <line  x1="50" y1="0" style="stroke:rgb(0,0,0);stroke-width:3" ></line>
+              </svg>
+            <img src="./assets/images/selectServer.svg" class="progress-indicator">
+            <svg  class="progress-separator">
+                <line  x1="50" y1="0" style="stroke:rgb(0,0,0);stroke-width:3" ></line>
+              </svg>
+            <img src="./assets/images/sources.svg" class="progress-indicator">
+            <svg  class="progress-separator">
+                <line  x1="50" y1="0" style="stroke:rgb(0,0,0);stroke-width:3" ></line>
+              </svg>
+            <img src="./assets/images/sourceToTarget.svg" class="progress-indicator">
+          </div>
+         <div  >
+          <app-solution-selector  *ngIf="currentProgress == 'solution'" ></app-solution-selector>
+          <app-environment-selector  *ngIf="currentProgress === 'environment'" ></app-environment-selector>
+          <app-functional-selector *ngIf="currentProgress === 'functional'" ></app-functional-selector>
+        </div>
+      </div>
+      <div class="next-button">
+          <input type="submit" (click)="nextClicked()" value="Next"/>
+      </div>
+      <footer class="footer" >
+          <p>&copy;2018 - TFObjects. All Rights Reserved.</p>
+      </footer>
+  </body>
+</html>

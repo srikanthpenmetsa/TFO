@@ -1,0 +1,15 @@
+
+.solution-selector{
+    display: grid;
+    justify-content: center;
+    padding-top: 5%;
+    text-align: center;
+    grid-row-gap: 10px;
+}
+
+
+select{
+height: 30px;
+margin-top:10px;
+width: 300px;
+}
